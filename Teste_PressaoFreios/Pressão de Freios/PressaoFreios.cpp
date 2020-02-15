@@ -4,6 +4,7 @@ TesteFreios::TesteFreios(int PIN) { //recebendo informações da biblioteca Test
   _PIN = PIN;
   pinMode (_PIN, INPUT);	//Inicio do sinal _PIN como INPUT
 }
+//TESTEAQUQOEQWDAS
 
 float TesteFreios::map(float x, float min, float max, float out_min, float out_max) {
 	
